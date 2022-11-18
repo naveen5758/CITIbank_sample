@@ -1,0 +1,3 @@
+Usage: git reset –hard [commit] 
+This command discards all history and goes back to the specified commit.
+
